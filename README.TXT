@@ -6,7 +6,7 @@ II - Expected series format
 
 ---
 
-I - Default template directory content0 :
+I - Default template directory content01 :
 ----------------------------------------
 
 /
